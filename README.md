@@ -1,0 +1,1 @@
+# AzureTrainingDay1Repository
